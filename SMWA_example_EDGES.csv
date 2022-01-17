@@ -1,0 +1,25 @@
+from,to,type,weight
+s01,s05,Lives near,1
+s01,s06,Lives near,1
+s02,s03,Lives near,1
+s04,s05,Lives near,1
+s05,s06,Lives near,1
+s01,s02,Friendship at the beginning,1
+s01,s05,Friendship at the beginning,1
+s02,s06,Friendship at the beginning,1
+s02,s03,Friendship at the beginning,1
+s03,s02,Friendship at the beginning,1
+s04,s05,Friendship at the beginning,1
+s05,s06,Friendship at the beginning,1
+s06,s02,Friendship at the beginning,1
+s01,s02,Friendship at the end,1
+s01,s05,Friendship at the end,1
+s02,s06,Friendship at the end,1
+s02,s03,Friendship at the end,1
+s02,s05,Friendship at the end,1
+s03,s05,Friendship at the end,1
+s04,s02,Friendship at the end,1
+s04,s05,Friendship at the end,1
+s05,s04,Friendship at the end,1
+s05,s06,Friendship at the end,1
+s06,s02,Friendship at the end,1
